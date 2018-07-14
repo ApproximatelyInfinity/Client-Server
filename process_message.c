@@ -63,17 +63,17 @@ int process_message(int sockfd, int action, struct Record *rec) {
 	/*int height = 180; 
 	int weight = 150;
 	
-	char fname[] = "Don";
-	char mname[] = "Eric";
-	char lname[] = "Brogdon";
-	char address[] = "Comanche";
-	char phonenum[] = "5804757973";
-	char dob[] = "June 8th 1991";
-	char ethnicity[] = "Caucasian";
-	char religion[] = "Christian";
-	char allergies[] = "Cats";
-	char smoker[] = "No";
-	char medicalhistory[] = "None";*/
+	char fname[] = "";
+	char mname[] = "";
+	char lname[] = "";
+	char address[] = "";
+	char phonenum[] = "";
+	char dob[] = "";
+	char ethnicity[] = "";
+	char religion[] = "";
+	char allergies[] = "";
+	char smoker[] = "";
+	char medicalhistory[] = "";*/
 //---------------------------------------------	
 	
 	
